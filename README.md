@@ -1,7 +1,7 @@
 # bookshelf
 A bookshelf for my books, courses and other literature
 
-## Books
+## 📖 Books
 
 ### Finished
 - "The Pragmatic Programmer: Your Journey to Mastery, 20th Anniversary Edition" by David Thomas and Adrew Hunt, 2021
@@ -21,7 +21,7 @@ A bookshelf for my books, courses and other literature
 - "Domain Driven Design" by Eric Evans
 - "Architecture Patterns with Python" by Harry Percival and Bob Gregory
 
-## Courses
+## 🗒️ Courses
 
 ### Finished
 
@@ -31,7 +31,7 @@ A bookshelf for my books, courses and other literature
 ### Queued
 
 
-## Articles
+## 📰 Articles
 
 ### Finished
 
