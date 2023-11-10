@@ -29,12 +29,3 @@ A bookshelf for my books, courses and other literature
 - "Legacy Fighter" by Maciej Aniserowicz, Sławomir Sobótka, Jakub Pilimon and Mariusz Gil
 
 ### Queued
-
-
-## 📰 Articles
-
-### Finished
-
-### In progress
-
-### Queued
